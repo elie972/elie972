@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Elie PATOLE
-- 👀 I’m interested in robotics and AI.
+- 👀 I’m interested in IT, robotics and AI.
 - 🌱 I’m currently learning robotics at CPE Lyon
-- 💞️ I’m looking to collaborate on an internship for my PFE.
+- 💞️ I’m looking to collaborate on an IT job.
 - 📫 You can reach me at: elie.patole@cpe.fr
 
 <!---
